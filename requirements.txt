@@ -1,0 +1,7 @@
+flask
+sqlalchemy
+bcrypt
+smtplib
+pandas
+pycryptodome
+mysql-connector-python
