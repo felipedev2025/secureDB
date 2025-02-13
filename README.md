@@ -39,8 +39,6 @@ python app.py
 
 📝 Estrutura do Projeto
 
-
-
 SecureDB/
 │── app.py              # Arquivo principal do sistema
 │── database.py         # Configuração do banco de dados
@@ -53,6 +51,7 @@ SecureDB/
 │── static/             # Arquivos CSS e JavaScript (se for usar Flask)
 │── requirements.txt    # Dependências do projeto
 │── README.md           # Documentação do projeto
+
 
 🛡️ Segurança Implementada
 Senhas criptografadas com bcrypt.
